@@ -2,15 +2,16 @@
 title: "Marisa Donnelly"
 ---
 <div class="index-main">
-  <div class="main-photo"><img src="photos/CSP_3556.jpg"></div>
+  <div class="main-photo"><img src="photos/Black_white_headshot.jpg"></div>
   <div id="main-text">
   <div class="inner-text">
   <h4>PhD Candidate, Epidemiology</h4>
-  <h4>NSF NRT Fellow, Data Science for the 21st Century</h4>
-  <h4>UC Berkeley</h4>
+  <h4>Davis Arbovirus Research and Training (DART)</h4>
+  <h4>Pacific Southwest Center of Regional Excellence</h4>
+  <h4>UC Davis</h4>
   </div>
   </div>
 </div>
 
 
-<div class="bottom-photo"><img src="photos/erg.png" style="width:100px;"><img src="photos/ucb.png" style="width:200px";><img src="photos/nsf.png" style="width:100px;"></div>
+<div class="bottom-photo"><img src="photos/DART.jpg" style="width:200px;"><img src="photos/ucdavis.png" style="width:200px";><img src="photos/PacVec.png" style="width:200px;"></div>
