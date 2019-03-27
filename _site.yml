@@ -1,0 +1,33 @@
+name: mapdonnelly.github.io
+output_dir: '.'
+output:
+  html_document:
+    theme: simplex
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no
+navbar:
+  title: Marisa Donnelly
+  left:
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+  - text: Work
+    href: projects.html
+  - text: Blog
+    href: https://niklaslollo.netlify.com
+  - text: Git Cheatsheet
+    href: git_cheat.html
+  - text: Get in Touch
+    menu:
+    - icon: fa-twitter
+      href: https://twitter.com/MAPdonnelly
+    - icon: fa-github
+      href: https://github.com/mapdonnelly
+    - icon: fa-linkedin
+      href: https://linkedin.com/in/lollon
+    - icon: fa-university
+      href: https://scholar.google.com/citations?user=B3P77eAAAAAJ&hl=en
+    - icon: fa-envelope
+      href: mailto:madonnelly@ucdavis.edu
