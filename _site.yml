@@ -15,10 +15,6 @@ navbar:
     href: about.html
   - text: Work
     href: projects.html
-  - text: Blog
-    href: https://niklaslollo.netlify.com
-  - text: Git Cheatsheet
-    href: git_cheat.html
   - text: Get in Touch
     menu:
     - icon: fa-twitter
@@ -26,7 +22,7 @@ navbar:
     - icon: fa-github
       href: https://github.com/mapdonnelly
     - icon: fa-linkedin
-      href: https://linkedin.com/in/lollon
+      href: https://linkedin.com/in/marisa-donnelly-12000483
     - icon: fa-university
       href: https://scholar.google.com/citations?user=B3P77eAAAAAJ&hl=en
     - icon: fa-envelope
