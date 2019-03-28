@@ -18,24 +18,32 @@ jobtitle: PhD Epidemiology (expected 2019), UC Davis
 linkcolor: blue
 orcid: null
 fontawesome: yes
-phone: +1 (530)864-8897
+phone: +1 (530) 864-8897
 address: 740 Miller Drive · Davis · CA 95616
 updated: yes
 urlcolor: blue
 web: null
 ---
+##### CONTACT
+
+Email: **madonnelly@ucdavis.edu**
+
+Phone: **(530) 864-8897**
+
+Github: https://github.com/mapdonnelly
+
+Twitter: https://twitter.com/MAPdonnelly
+
 ##### CITIZENSHIP
 U.S. citizen
 
 ##### EDUCATION
 
-*University of California, Davis*, Ph.D. Epidemiology \hfill expected 2019  
+*University of California, Davis*, Ph.D. Epidemiology \hfill (expected 2019)  
 
-> Dissertation: *“Quantifying heterogeneities in the risk of local Zika and dengue outbreaks in California”* (Advised by Dr. Christopher M. Barker)
+**Dissertation: *“Quantifying heterogeneities in the risk of local Zika and dengue outbreaks in California”* (Advised by Dr. Christopher M. Barker)**
 
-*University of California, San Diego*, B.S. Environmental Systems \hfill 2013   
-
-> Minor in International Studies
+*University of California, San Diego*, B.S. Environmental Systems, Minor in International Studies \hfill (2013)   
       
 
 ##### LANGUAGES
@@ -46,13 +54,13 @@ U.S. citizen
 
 *California Department of Public Health:*
 
- > **Graduate Student Researcher** \hfill 2018--present
+**Graduate Student Researcher** \hfill 2018--present
  
 - As a **researcher** for the **Climate Change and Health Equity Program**, I investigated the human morbidity and mortality burden attributed to ambient temperature and extreme heat and cold events in California. I developed distributed non-linear lag models to project future scenarios of excess temperature-related morbidity and mortality in California populations using climate change scenarios and general circulation models. I focused on the most vulnerable populations and identified the communities at greatest risk for increases in heat-related illness burden in the future. Publication in prep.
 
 *University of California, Davis:*
 
- > **Graduate Student Researcher** \hfill 2014-present
+**Graduate Student Researcher** \hfill 2014-present
  
  - As a **researcher** for the **Davis Arbovirus Research and Training group (DART)**, I quantified sociodemographic heterogeneities in *Aedes aegypti* abundance in Los Angeles, California, and developed risk assessment tools and maps that were incorporated into the California Vectorborne Disease Surveillance Gateway (CalSurv Gateway). I developed mechanistic models to summarize mosquito population dynamics and assess present and future risk of *Ae. aegypti* and *Aedes albopictus* range expansion in California with climate change projections, [which are publically accessible here](https://maps.calsurv.org/invasive.html). I also raised and maintained *Culex spp.* and *Aedes spp.* mosquito colonies for laboratory experiments, and participated in an experimental *Wolbachia*-infected *Aedes albopictus* release project with [MosquitoMate](https://mosquitomate.com/?v=3.0) at the Greater Los Angeles County Vector Control District in June of 2015. The field trial found that the release of sterile male *Ae. albopictus* mosquitoes lead to an overall population reduction of *Ae. albopictus* in Los Angeles communities. This field trial was one of multiple in the U.S. that contributed to MosquitoMate getting EPA approval in 2017. 
 - As the **lead investigator** on project in collaboration with the **Greater Los Angeles County Vector Control District**, I ran a household survey of 163 participants in Los Angeles County, CA. Our aim was to quantify sociodemographic heterogeneities in the risk of local Zika and dengue outbreaks in California. We found that a decrease in income of approximately $20,000 was associated with a 30% increase in *Ae. aegypti* abundance at the household level, highlighting the need for community-specific vector control programs. At each household we administered a survey, which I wrote in English and in Spanish, and collected data on household characteristics and human behaviors. I designed the study, collected adult *Ae. aegypti* and identified species in the laboratory, and managed 3 undergraduate researchers. I also conducted all statistical and spatial analysis on household data and *Ae. aegypti* abundance. Publication in prep.
@@ -60,19 +68,19 @@ U.S. citizen
 
 *PLOS Neglected Tropical Diseases:*
 
- > **Reviewer** \hfill 2017--present
+**Reviewer** \hfill 2017--present
  
 - Assessed whether manuscripts meet the criteria for publication described by *PLOS Neglected Tropical Disease*.
 
 *Parasites and Vectors:*
 
- > **Reviewer** \hfill 2018--present
+**Reviewer** \hfill 2018--present
  
 - Assessed whether manuscripts meet the criteria for publication described by *Parasites and Vectors*.
 
 *University of California, San Diego*
 
-> **Undergraduate Student Researcher** \hfill 2011--2013
+**Undergraduate Student Researcher** \hfill 2011--2013
 
 - As a **research assistant** in the **Department of Global Public Health**, I translated and edited HIV/STI participant surveys in Spanish and in English, and aided in data cleaning. I also instigated protocol for GIS analysis of study location data, and conducted general clerical tasks for multiple international epidemiological studies of HIV/STI transmission.
 - As a **research assistant** at the **Scripps Institute of Oceanography**, I developed an open-source protocol using GRASS GIS to analyzed retrospective seasonal change of tide-pool algae ecology in response to seasonal and anomalous climate fluctuations. I also designed the data collection methodology and identification protocols for benthic layer marine species identification survey using a Remote Operated Vehicle (ROV) video collection apparatus.
@@ -92,6 +100,7 @@ Kawiecki, A., W. Elson, **M.P. Donnelly**, J. Schwarz, J. Simpson, T. Scott, N. 
 Simpson, J.K., **M.P. Donnelly**, M. Marcantonio, C.M. Barker, CalSurv Gateway: survey results and new tools for invasive Aedes, *Proceedings and Papers of the Mosquito and Vector Control Association of California* 84 (2016)
 
 ##### TEACHING EXPERIENCES
+- **Teaching Assistant:** Disease Ecology (VME 158) \hfill Spring 2019
 
 - **Teaching Assistant:** Analysis and Interpretation of Epidemiological Data (EPI 208) \hfill Fall 2018
 
@@ -106,7 +115,6 @@ Simpson, J.K., **M.P. Donnelly**, M. Marcantonio, C.M. Barker, CalSurv Gateway: 
 - *2nd place poster*, Designated Emphasis in the Biology of Vectorborne Diseases Annual Symposium \hfill 2017
 - *National Institutes of Health* Ruth L. Kirschstein National Research Service Award (F31) Applicant (*unfunded*) \hfill 2017
 - *National Institutes of Health* Ruth L. Kirschstein National Research Service Award (F31) Applicant (*unfunded*) \hfill 2017
-- Epidemic Intelligence Service David J. Spencer Conference Scholarship (*In progress*) \hfill 2019
 
 ##### COMMUNICATION & OUTREACH
 
