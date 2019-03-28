@@ -16,7 +16,7 @@ navbar:
   - text: Work
     href: projects.html
   - text: CV
-    href: md_rmarkdown_resume.html
+    href: md_rmarkdown-resume.html
   - text: Get in Touch
     menu:
     - icon: fa-twitter
