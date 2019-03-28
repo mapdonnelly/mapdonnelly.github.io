@@ -16,7 +16,7 @@ navbar:
   - text: Work
     href: projects.html
   - text: CV
-    href: md_rmarkdown-resume.html
+    href: donnelly_cv.html
   - text: Get in Touch
     menu:
     - icon: fa-twitter
@@ -25,7 +25,5 @@ navbar:
       href: https://github.com/mapdonnelly
     - icon: fa-linkedin
       href: https://linkedin.com/in/mapdonnelly
-    - icon: fa-university
-      href: https://scholar.google.com/citations?user=B3P77eAAAAAJ&hl=en
     - icon: fa-envelope
       href: mailto:madonnelly@ucdavis.edu
