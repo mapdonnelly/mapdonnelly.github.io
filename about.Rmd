@@ -1,6 +1,14 @@
 ---
 title: "Marisa Donnelly"
+output:
+  html_document:
+    df_print: paged
 ---
 5th year PhD candidate in the [Epidemiology Graduate Group](https://www2.vetmed.ucdavis.edu/gge/index.cfm) and member of the [Barker Lab](https://barkerlab.ucdavis.edu/) at the University of California, Davis
 
-I am passionate about disease ecology and One Health approaches in public health. I believe that the key to improving global health is to use ecological and systemic approaches to understand how changing environments, the movement of invasive species, and globalization result in increases in new and emerging diseases. I am specifically interested in developing GIS and biological models to estimate spatial and temporal dynamics of vector-borne diseases, including dengue and Zika. Additionally, I am interested in investigating the human-mosquito ecological dynamics that propagate transmission, and the vector-control methods that most effectively reduce transmission.
+###Mission
+
+#####My research resides at the intersection of modeling, medical entomology, and social determinants of health. My mission is to improve health outcomes for the most marginalized and impoverished populations affected by vector-borne diseases through public health research.
+
+I approach my work with enthusiasm, dedication, and compassion. I approach every projects with goal of serving the communities I am studying and do my best to ensure that all projects I work on yield end products that aid in protecting vulnerable communities from vector-borne disease exposure. I strive to keep my research open and accesible, and believe that wealth should not be an obstacle to knowledge, prevention, or treatment. 
+
