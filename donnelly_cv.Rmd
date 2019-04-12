@@ -3,11 +3,11 @@ title: "Curriculum Vitae"
 author: "Marisa A.P. Donnelly"
 email: madonnelly@ucdavis.edu
 output:
+  html_document:
+    df_print: paged
   pdf_document:
     latex_engine: pdflatex
     template: rap-latex-cv.tex
-  html_document:
-    df_print: paged
   word_document: default
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -24,15 +24,13 @@ updated: yes
 urlcolor: blue
 web: null
 ---
-##### CONTACT
 
-Email: **madonnelly@ucdavis.edu**
-
-Phone: **(530) 864-8897**
-
-Github: https://github.com/mapdonnelly
-
-Twitter: https://twitter.com/MAPdonnelly
+<center> <h3>
+__Marisa A.P. Donnelly__ 
+</h4></center>
+<center> <h4>
+**madonnelly@ucdavis.edu** | https://github.com/mapdonnelly 
+</h4></center>
 
 #####SUMMARY OF PROFESSIONAL EXPERIENCE
 Marisa Donnelly is a research epidemiologist with 6 years of experience in public health research, focusing particularly on vector-borne diseases and health equity. Marisa has extensive experience investigating arbovirus transmission dynamics, specializing in conducting field work and building statistical and mathematical models to indentify vulnerable communities for arboviral transmission. She is highly skilled in developing spatio-temporal statistical and mechanistic models, survey design, mobile data collection, and fieldwork, and has substantial knowledge of mathematical modeling, geographic information systems (GISs), mosquito rearing, and laboratory work. 
