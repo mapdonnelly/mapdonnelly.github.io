@@ -2,7 +2,7 @@ name: mapdonnelly.github.io
 output_dir: '.'
 output:
   html_document:
-    theme: simplex
+    theme: flatly
     css: style.css
     lib_dir: site_libs
     self_contained: no
