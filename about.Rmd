@@ -12,7 +12,7 @@ output:
 __Personal Mission:__ 
 </h4></center>  
 
-<h5>To improve the health outcomes of the most marginalized and impoverished populations affected by vector-borne diseases through public health research.</h5>   
+>To improve the health outcomes of the most marginalized and impoverished populations affected by vector-borne diseases through public health research.   
 
 
 My research resides at the intersection of modeling, medical entomology, and
