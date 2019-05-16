@@ -98,16 +98,19 @@ Marisa Donnelly is a research epidemiologist with 6 years of experience in publi
 ***  
 
 ##### PUBLICATIONS
+**Donnelly, M.P.**, S. Kluh, R. Snyder, C.M. Barker. Quantifying socioeconomic heterogeneities in the distribution of *Aedes aegypti* among California Households. 2019 *PLoS Neglected Tropical Diseases.* 2019 (In review)
 
-Kawiecki, A., W. Elson, **M.P. Donnelly**, J. Schwarz, J. Simpson, T. Scott, N. Achee, A. Morrisson, Use of mobile data collection tools to improve implementation of epidemiological trials in Iquitos, Peru. *American Journal of Tropical Medicine and Hygiene* (2019) (In prep)
+**Donnelly, M.P.**, B. Main, S. Kluh, C.M. Barker. *Aedes aegypti* blood and sugar-feeding patterns in Los Angeles, California, *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2019 (In review)
 
-**Donnelly, M.P.**, S. Kluh, C.M. Barker, Quantifying socioeconomic heterogeneities in the risk of local Zika and dengue outbreaks in California. *Proceedings and Papers of the Mosquito and Vector Control Association of California* 87 (2018) 
+Kawiecki, A., W. Elson, **M.P. Donnelly**, J. Schwarz, J. Simpson, T. Scott, N. Achee, A. Morrisson. Use of mobile data collection tools to improve implementation of epidemiological trials in Iquitos, Peru. *American Journal of Tropical Medicine and Hygiene.* 2019 (In prep)
 
-**Donnelly, M.P.**, M. Marcantonio, F. Melton, C.M. Barker, Mapping past, present, and future climatic suitability for invasive Aedes aegypti in the United States: a process-based modeling approach. *Proceedings and Papers of the Mosquito and Vector Control Association of California* 86 (2017) 
+**Donnelly, M.P.**, S. Kluh, C.M. Barker. Quantifying socioeconomic heterogeneities in the risk of local Zika and dengue outbreaks in California. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2018;86:84-85  
 
-**Donnelly, M.P.**, M. Marcantonio, F. Melton, C.M. Barker, Mapping climatic suitability for invasive Aedes aegypti and Aedes albopictus in the United States: a process-based modeling approach. *Proceedings and Papers of the Mosquito and Vector Control Association of California* 85 (2016) 
+**Donnelly, M.P.**, M. Marcantonio, F. Melton, C.M. Barker. Mapping past, present, and future climatic suitability for invasive *Aedes aegypti* in the United States: a process-based modeling approach. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2017;85:18-20  
 
-Simpson, J.K., **M.P. Donnelly**, M. Marcantonio, C.M. Barker, CalSurv Gateway: survey results and new tools for invasive Aedes, *Proceedings and Papers of the Mosquito and Vector Control Association of California* 84 (2016)  
+**Donnelly, M.P.**, M. Marcantonio, F. Melton, C.M. Barker. Mapping climatic suitability for invasive *Aedes aegypti* and *Aedes albopictus* in the United States: a process-based modeling approach. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2016;4:92:94
+
+Simpson, J.K., **M.P. Donnelly**, M. Marcantonio, C.M. Barker. CalSurv Gateway: survey results and new tools for invasive *Aedes*, *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2016;84:69:70 
 
 ***  
 
@@ -123,7 +126,7 @@ Simpson, J.K., **M.P. Donnelly**, M. Marcantonio, C.M. Barker, CalSurv Gateway: 
 ***  
 
 ##### GRANTS & AWARDS
-- **($8,500)** University of California Global Health Institute, Planetary Health Center of Expertise Summer fellowship (Statewide competition) \hfill 2018
+- **($8,500)** University of California Global Health Institute, Planetary Health Center of Expertise Summer fellowship \hfill 2018
 - **($5,000)** University of California, Davis Graduate Group in Epidemiology fellowship \hfill 2014
 - **($2,000)** Summer Institute in the Statistics and Modeling of Infectious Diseases fellowship (International competition) \hfill 2018
 - *2nd place poster*, Designated Emphasis in the Biology of Vectorborne Diseases Annual Symposium \hfill 2017
