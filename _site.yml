@@ -13,7 +13,7 @@ navbar:
     href: index.html
   - text: About
     href: about.html
-  - text: Work
+  - text: Research
     href: projects.html
   - text: CV
     href: donnelly_cv.html
