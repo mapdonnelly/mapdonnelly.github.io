@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Marisa"
+title: "The urban ecology of *Aedes aegypti* in California""
 output:
   html_document:
     df_print: paged
