@@ -1,7 +1,7 @@
 ---
-title: "The urban ecology of *Aedes aegypti* in California""
-output:
-  html_document:
+title: "The urban ecology of Aedes aegypti in California""
+output: html_document
+  
     df_print: paged
 ---
 <h5>I am a 5th year PhD candidate in the [Epidemiology Graduate Group](https://www2.vetmed.ucdavis.edu/gge/index.cfm) and member of the [Barker Lab](https://barkerlab.ucdavis.edu/) at the University of California, Davis</h5>
