@@ -1,6 +1,7 @@
 ---
 title: "Health equity and arboviral diseases"
 output: html_document
+
 ---
 
 <h5>I am a bilingual infectious disease epidemiologist on a mission to improve the health outcomes of marginalized populations through applied public health and community engagement.</h5>
