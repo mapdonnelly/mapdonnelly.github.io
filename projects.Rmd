@@ -20,6 +20,7 @@ Aedes aegypti, a vector of Zika, dengue, chikungunya, and yellow fever viruses, 
 
 <img src="photos/undergrads.JPG" style="width:300px;"><img src="photos/chris_with_family.JPG" style="width:300px;"><img src="photos/leaf_blower.JPG" style="width:300px;">
 
+<figcaption><h6>Scenes from LA. While conducting field work, I had the pleasure of working with 3 AMAZING undergrads who helped me administer surveys and collect mosquitoes. Chris, my advisor, visited us in LA and "wow-ed" some of our participants with his mosquito-whispering talents (consent was given for photo). The mechanics at the Greater Los Angeles County Vector Control District were incredibly gracious and taught me to reverse the polarity on our leaf blowers for collecting mosquitoes.</h6></figcaption>
 ***  
 
 <h5>
@@ -30,6 +31,7 @@ In the U.S., some studies suggest that improved housing quality reduces exposure
 
 <img src="photos/lipids.JPG" style="width:300px;"><img src="photos/mosquito_feeding_2.JPG" style="width:300px;"><img src="photos/glycogen.JPG" style="width:300px;">
 
+<figcaption><h6>The pink in the microplate wells are lipids extracted from *Ae. aegypti* reacting with a vanillin solution and the greem is glycogenreacting with an anthrone solution. For our experiment, I volunteered to feed a few hundred lab colony *Ae. aegypti* on my arm!</h6></figcaption>
 ***  
 
  <h5>
@@ -48,7 +50,10 @@ __Proyecto Dengue; data management in Iquitos, Peru:__
 
 As the survey and data manager for the Proyecto Dengue Program Project Grant (P01, PIs Dr. Tom Scott and Dr. Amy Morrison), I developed and managed surveys and data-collection efforts for a longitudinal cohort study with over 15,000 participants under surveillance for dengue and Zika virus infections in Iquitos, Peru. My main duties were programming the CommCare mobile application system used to administer surveys in the field, designing surveys, translating and streamlining surveys and standard operating procedures into Spanish, field-testing applications and survey protocols in Iquitos, and administering trainings in Spanish on using the CommCare data collection application and data management to Peruvian doctors and field technicians in Iquitos. To to ensure that the surveys and mobile application system were user-friendly for the field-technicians while also maintained the integrity of the data, I served as a liaison between and communicated heavily with field technicians, project managers, the CommCare database management team, and project scientists. Additionally, I developed an extensive knowledge of dengue and Zika epidemiology and a strong understanding of the socio-demographic determinants of both diseases. 
 
-<img src="photos/iquitos_houses.JPG" style="width:300px;"><img src="photos/doctor_iquitos.JPG" style="width:300px;"><img src="photos/larvae_iquitos.JPG" style="width:300px;">
+<img src="photos/iquitos_houses.JPG", alt="test caption", style="width:300px;"><img src="photos/doctor_iquitos.JPG" style="width:300px;"><img src="photos/larvae_iquitos.JPG" style="width:300px;">
+
+<figcaption><h6>Scenes from Iquitos. The first photo is of a community residing next to the Amazon River. The second photo is of one of our Peruvian doctors testing a study participant for dengue virus (consent was given for photo). The third photo is of *Ae. aegypti* larvae collected at one of the participating households.</h6></figcaption>
+
 
 ***  
 
