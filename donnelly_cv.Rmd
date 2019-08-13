@@ -3,11 +3,11 @@ title:
 author:
 email: madonnelly@ucdavis.edu
 output:
-  html_document:
-    df_print: paged
   pdf_document:
     latex_engine: pdflatex
     template: rap-latex-cv.tex
+  html_document:
+    df_print: paged
   word_document: default
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -40,13 +40,13 @@ __Marisa A.P. Donnelly__
 
 ***
 #####SUMMARY OF PROFESSIONAL EXPERIENCE
-Marisa Donnelly is a research epidemiologist with 6 years of experience in public health research, focusing particularly on vector-borne diseases and health equity. Marisa has extensive experience investigating arbovirus transmission dynamics, specializing in conducting field work and building statistical and mathematical models to indentify vulnerable communities for arboviral transmission. She is highly skilled in developing spatio-temporal statistical and mechanistic models, survey design, mobile data collection, and fieldwork, and has substantial knowledge of mathematical modeling, geographic information systems (GISs), mosquito rearing, and laboratory work.  
+Marisa Donnelly is a research epidemiologist with 6 years of experience in public health research, focusing particularly on vector-borne diseases and health equity. Marisa has extensive experience investigating arbovirus transmission dynamics, specializing in conducting field work and building statistical and mathematical models to indentify vulnerable communities for arboviral transmission. She is highly skilled in developing spatio-temporal statistical and mechanistic models, survey design, mobile data collection, and fieldwork, and has substantial knowledge of mathematical modeling, hierchical modeling, hypothesis testing via inferential statistics and forecasting, geographic information systems (GIS), mosquito rearing, and laboratory work.  
 
 ***  
 
 ##### EDUCATION
 
-*University of California, Davis*, Ph.D. Epidemiology \hfill (expected 2019)  
+*University of California, Davis*, Ph.D. Epidemiology \hfill (expected 2020)  
 
 **Dissertation: *“Quantifying heterogeneities in the risk of local Zika and dengue outbreaks in California”* (Advised by Dr. Christopher M. Barker)**
 
@@ -76,17 +76,31 @@ Marisa Donnelly is a research epidemiologist with 6 years of experience in publi
 - As the **lead investigator** on project in collaboration with the **Greater Los Angeles County Vector Control District**, I ran a household survey of 163 participants in Los Angeles County, CA. Our aim was to quantify sociodemographic heterogeneities in the risk of local Zika and dengue outbreaks in California. We found that a decrease in income of approximately $20,000 was associated with a 30% increase in *Ae. aegypti* abundance at the household level, highlighting the need for community-specific vector control programs. At each household we administered a survey, which I wrote in English and in Spanish, and collected data on household characteristics and human behaviors. I designed the study, collected adult *Ae. aegypti* and identified species in the laboratory, and managed 3 undergraduate researchers. I also conducted all statistical and spatial analysis on household data and *Ae. aegypti* abundance. Publication in prep.
 - As the **survey and data manager** for the **Proyecto Dengue** Program Project Grant (P01) (PIs Dr. Tom Scott and Dr. Amy Morrison), I managed and developed surveys and data-collection efforts for the Proyecto Dengue longitudinal cohort study; a study which has enrolled over 15,000 participants. I translated and streamlined surveys and Standard Operating Procedures (SOPs) into Spanish and field-tested applications and survey protocols in Iquitos, Peru. I also trained project members, including Peruvian doctors and researchers, in CommCare data management and survey design, and maintained communications between CommCare database management team and project administrators. 
 
+*Journal of Medical Entomology:*
+
+**Reviewer** \hfill 2019--present
+ 
+- Assessed whether manuscripts meet the criteria for publication described by the *Journal of Medical Entomology*.
+
+*Parasites and Vectors:*
+
+**Reviewer** \hfill 2018--present
+ 
+- Assessed whether manuscripts meet the criteria for publication described by *Parasites and Vectors*.  
+
 *PLOS Neglected Tropical Diseases:*
 
 **Reviewer** \hfill 2017--present
  
 - Assessed whether manuscripts meet the criteria for publication described by *PLOS Neglected Tropical Disease*.
 
-*Parasites and Vectors:*
 
-**Reviewer** \hfill 2018--present
+*Vector-Borne and Zoonotic Diseases:*
+
+**Reviewer** \hfill 2015--present
  
-- Assessed whether manuscripts meet the criteria for publication described by *Parasites and Vectors*.
+- Assessed whether manuscripts meet the criteria for publication described by *Vector-Borne and Zoonotic Diseases*.
+
 
 *University of California, San Diego*
 
