@@ -3,11 +3,11 @@ title:
 author:
 email: madonnelly@ucdavis.edu
 output:
+  html_document:
+    df_print: paged
   pdf_document:
     latex_engine: pdflatex
     template: rap-latex-cv.tex
-  html_document:
-    df_print: paged
   word_document: default
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
