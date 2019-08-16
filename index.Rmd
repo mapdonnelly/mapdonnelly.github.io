@@ -6,8 +6,8 @@ title: "Marisa Donnelly"
   <div id="main-text">
   <div class="inner-text">
   <h4>PhD Candidate, Epidemiology</h4>
+  <h5>Pacific Southwest Center of Regional Excellence Fellow</h5>
   <h5>Davis Arbovirus Research and Training (DART)</h5>
-  <h5>Pacific Southwest Center of Regional Excellence</h5>
   <h5>UC Davis</h5>
   </div>
   </div>
