@@ -1,11 +1,16 @@
 ---
-title: "Marisa Donnelly"
+title: "Marisa Donnelly, PhD"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+    theme: simplex
 ---
 <div class="index-main">
   <div class="main-photo"><img src="photos/Black_white_headshot.jpg"></div>
   <div id="main-text">
   <div class="inner-text">
-  <h4>PhD Candidate, Epidemiology</h4>
+  <h4>PhD, Epidemiology</h4>
   <h5>Pacific Southwest Center of Regional Excellence Fellow</h5>
   <h5>Davis Arbovirus Research and Training (DART)</h5>
   <h5>UC Davis</h5>

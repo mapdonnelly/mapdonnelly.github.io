@@ -8,6 +8,7 @@ output:
     template: rap-latex-cv.tex
   html_document:
     df_print: paged
+    theme: simplex
   word_document: default
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -32,21 +33,21 @@ library(fontawesome)
 
 
 <center> <h3>
-__Marisa A.P. Donnelly__ 
+__Marisa A.P. Donnelly, PhD__ 
 </h4></center>
 <center> <h4>
 `r fa("envelope-open", fill = "steelblue")` madonnelly@ucdavis.edu | `r fa("github", fill = "steelblue")` [mapdonnelly](https://github.com/mapdonnelly) 
 </h4></center>
 
 ***
-#####SUMMARY OF PROFESSIONAL EXPERIENCE
-Marisa Donnelly is a research epidemiologist with 6 years of experience in public health research, focusing particularly on vector-borne diseases and health equity. Marisa has extensive experience investigating arbovirus transmission dynamics, specializing in conducting field work and building statistical and mathematical models to indentify vulnerable communities for arboviral transmission. She is highly skilled in developing spatio-temporal statistical and mechanistic models, survey design, mobile data collection, and fieldwork, and has substantial knowledge of mathematical modeling, hierarchical modeling, hypothesis testing via inferential statistics and forecasting, geographic information systems (GIS), mosquito rearing, and laboratory work.  
+##### SUMMARY OF PROFESSIONAL EXPERIENCE
+Marisa Donnelly is a research epidemiologist with 7 years of experience in public health research, focusing infectious disease modeling, field epidemiology, and health equity. Marisa has extensive experience investigating arbovirus transmission dynamics, specializing in conducting field work and building statistical and mathematical models to indentify vulnerable communities for arboviral transmission. She is highly skilled in developing spatio-temporal statistical and mechanistic models, survey design, mobile data collection, and fieldwork, and has substantial knowledge of mathematical modeling, hierarchical modeling, hypothesis testing via inferential statistics and forecasting, geographic information systems (GIS), mosquito rearing, and laboratory work.  
 
 ***  
 
 ##### EDUCATION
 
-*University of California, Davis*, Ph.D. Epidemiology \hfill (expected 2020)  
+*University of California, Davis*, Ph.D. Epidemiology \hfill (2020)  
 
 **Dissertation: *“Quantifying heterogeneities in the risk of local Zika and dengue outbreaks in California”* (Advised by Dr. Christopher M. Barker)**
 
@@ -64,13 +65,13 @@ Marisa Donnelly is a research epidemiologist with 6 years of experience in publi
 
 *California Department of Public Health:*
 
-**Graduate Student Researcher** \hfill 2018--present
+**Graduate Student Researcher** \hfill 2018--2020
  
 - As a **researcher** for the **Climate Change and Health Equity Program**, I investigated the human morbidity and mortality burden attributed to ambient temperature and extreme heat and cold events in California. I developed distributed non-linear lag models to project future scenarios of excess temperature-related morbidity and mortality in California populations using climate change scenarios and general circulation models. I focused on the most vulnerable populations and identified the communities at greatest risk for increases in heat-related illness burden in the future. Publication in prep.
 
 *University of California, Davis:*
 
-**Graduate Student Researcher** \hfill 2014-present
+**Graduate Student Researcher** \hfill 2014-2020
  
  - As a **researcher** for the **Davis Arbovirus Research and Training group (DART)**, I quantified sociodemographic heterogeneities in *Aedes aegypti* abundance in Los Angeles, California, and developed risk assessment tools and maps that were incorporated into the California Vectorborne Disease Surveillance Gateway (CalSurv Gateway). I developed mechanistic models to summarize mosquito population dynamics and assess present and future risk of *Ae. aegypti* and *Aedes albopictus* range expansion in California with climate change projections, [which are publically accessible here](https://maps.calsurv.org/invasive.html). I also raised and maintained *Culex spp.* and *Aedes spp.* mosquito colonies for laboratory experiments, and participated in an experimental *Wolbachia*-infected *Aedes albopictus* release project with [MosquitoMate](https://mosquitomate.com/?v=3.0) at the Greater Los Angeles County Vector Control District in June of 2015. The field trial found that the release of sterile male *Ae. albopictus* mosquitoes lead to an overall population reduction of *Ae. albopictus* in Los Angeles communities. This field trial was one of multiple in the U.S. that contributed to MosquitoMate getting EPA approval in 2017. 
 - As the **lead investigator** on project in collaboration with the **Greater Los Angeles County Vector Control District**, I ran a household survey of 163 participants in Los Angeles County, CA. Our aim was to quantify sociodemographic heterogeneities in the risk of local Zika and dengue outbreaks in California. We found that a decrease in income of approximately $20,000 was associated with a 30% increase in *Ae. aegypti* abundance at the household level, highlighting the need for community-specific vector control programs. At each household we administered a survey, which I wrote in English and in Spanish, and collected data on household characteristics and human behaviors. I designed the study, collected adult *Ae. aegypti* and identified species in the laboratory, and managed 3 undergraduate researchers. I also conducted all statistical and spatial analysis on household data and *Ae. aegypti* abundance. Publication in prep.

@@ -4,8 +4,9 @@ output:
   pdf_document: default
   html_document:
     df_print: paged
+    theme: simplex
 ---
-<h5>I am a 5th year PhD candidate in the [Epidemiology Graduate Group](https://www2.vetmed.ucdavis.edu/gge/index.cfm) and member of the [Barker Lab](https://barkerlab.ucdavis.edu/) at the University of California, Davis</h5>
+<h5>I am an Epidemiologist and [Epidemic Intelligenec Service (EIS) Officer](https://www.cdc.gov/eis/index.html) with the CDC. I am currently stationed at the [California Department of Public Health](https://www.cdph.ca.gov/) in the Disease Investigations Section.  
 
 ***
 
