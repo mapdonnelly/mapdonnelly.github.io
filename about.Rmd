@@ -6,7 +6,7 @@ output:
     df_print: paged
     theme: simplex
 ---
-<h5>I am an Epidemiologist and [Epidemic Intelligenec Service (EIS) Officer](https://www.cdc.gov/eis/index.html) with the CDC. I am currently stationed at the [California Department of Public Health](https://www.cdph.ca.gov/) in the Disease Investigations Section.  
+<h5>I am an Epidemiologist and CDC [Epidemic Intelligenec Service (EIS) Officer](https://www.cdc.gov/eis/index.html) with a background in quantitative infectious disease epidemiology. I am currently stationed at the [California Department of Public Health](https://www.cdph.ca.gov/) in the Disease Investigations Section.  
 
 ***
 
@@ -14,11 +14,23 @@ output:
 __Personal Mission:__ 
 </h4></center>  
 
->To improve the health outcomes of the most marginalized and impoverished populations affected by vector-borne diseases through public health research.   
+>To improve the health outcomes of the most marginalized and impoverished populations affected by infectious diseases through public health research. Ultimately, I strive to keep my research open and accessible, and believe that wealth should not be an obstacle to knowledge, prevention, or treatment.   
 
 
-My research resides at the intersection of modeling, medical entomology, and
-social determinants of health. I approach my work with enthusiasm, dedication, and compassion, and direct every project toward serving the communities I study. I do my best to ensure that all projects I work on or collaborate with yield end products that aid in protecting vulnerable communities from vector-borne disease exposure. Ultimately, I strive to keep my research open and accesible, and believe that wealth should not be an obstacle to knowledge, prevention, or treatment.   
+My research resides at the intersection of modeling, infectious disease epidemiology, and
+social determinants of health. I approach my work with enthusiasm, dedication, and compassion, and direct every project toward serving the communities I study. I do my best to ensure that all projects I work on or collaborate with yield end products that aid in protecting vulnerable communities from infectious disease exposure. 
+
+*** 
+
+<center> <h4>
+__Strengths and Experience:__ 
+</h4></center>  
+My strengths are in data analysis, biostatistics, statistical and mathematical modeling, data visualization, GIS, health care data, field epidemiology, outbreak investigation, and public health surveillance systems. 
+
+I am fluent in Spanish and have conducted extensive field work often for months at a time both domestically (Los Angeles County, CA, San Diego County, CA, Santa Clara County, CA) and internationally (Iquitos, Peru, San Michele, Italy). 
+
+I have collected, cleaned, and analyzed data from studies I've designed, worked with large databases (15,000 - 2 million observations), and analyzed electronic health records and laboratory data.  
+
 
 ***  
 
@@ -26,9 +38,9 @@ social determinants of health. I approach my work with enthusiasm, dedication, a
 __A little bit about me:__  
 </h4></center>   
 
-I grew up in Chico, California, and moved to San Diego to study Environmental Systems (Chemistry emphasis) and International Relations as UC San Diego (UCSD). While studying at UCSD, I fell in love with research while working as an undergraduate student researcher in a marine biology laboratory at the Scripps Institute of Oceanography and in a public health laboratory at the UC San Diego Department of Global Public Health. Through my ecology, biology, and statistics courses, I became fascinated by population leavel health, and knew that my undergraduate degree would not satisfy my drive to continue investigating. While finishing undergrad, I applied to PhD programs, and ultimately decided to pursue a PhD in the Graduate Group in Epidemiology at UC Davis. 
+I grew up in Chico, California, and moved to San Diego to study Environmental Systems (Chemistry emphasis) and International Relations at UC San Diego (UCSD). While studying at UCSD, I was a D-wing midfielder on the Women's Lacrosse team and learned to rock climb. Physical activities have always kept me grounded and provide me time to clear my head. 
 
-I currently live in Davis, California, where I am a fifth year PhD candidate in the Davis Arbovirus Research and Training Group (DART) with Dr. Chris Barker. I study the risk for local Zika and dengue virus transmission occuring in California, where *Aedes aegypti* populations continue to spread. My research focuses on understanding the sociodemographic drivers of *Ae. aegypti* abundance in urban regions of Southern California, the biological and environmental drivers *Ae. aegypti* blood and sugar-feeding, and the overall risk and dynamics of local *Aedes*-borne virus outbreaks occuring in California.  
+When I'm not studying household transmission of SARS-CoV-2 or building SIR models for Zika to estimate Zika transmission, you can find me running in the Oakland hills, attempting to surf in South San Francisco, or cuddling with my two kittens.   
 
 </center>
 <img src="photos/iquitos_parrot.JPG">

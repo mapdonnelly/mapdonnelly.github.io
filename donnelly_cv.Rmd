@@ -1,7 +1,7 @@
 ---
 title: 
 author:
-email: madonnelly@ucdavis.edu
+email: mapdonnelly@gmail.com
 output:
   pdf_document:
     latex_engine: pdflatex
@@ -15,7 +15,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 github: mapdonnelly
-jobtitle: PhD Epidemiology (expected 2019), UC Davis
+jobtitle: PhD Epidemiology (2020), UC Davis
 linkcolor: blue
 orcid: null
 fontawesome: yes
@@ -41,7 +41,7 @@ __Marisa A.P. Donnelly, PhD__
 
 ***
 ##### SUMMARY OF PROFESSIONAL EXPERIENCE
-Marisa Donnelly is a research epidemiologist with 7 years of experience in public health research, focusing infectious disease modeling, field epidemiology, and health equity. Marisa has extensive experience investigating arbovirus transmission dynamics, specializing in conducting field work and building statistical and mathematical models to indentify vulnerable communities for arboviral transmission. She is highly skilled in developing spatio-temporal statistical and mechanistic models, survey design, mobile data collection, and fieldwork, and has substantial knowledge of mathematical modeling, hierarchical modeling, hypothesis testing via inferential statistics and forecasting, geographic information systems (GIS), mosquito rearing, and laboratory work.  
+Marisa Donnelly is a research epidemiologist with 7 years of experience in applied public health research, focusing infectious disease modeling, field epidemiology, and health equity. Marisa has extensive experience investigating infectious disease transmission dynamics, specializing in conducting field work and building statistical and mathematical models to indentify vulnerable communities. She is highly skilled in developing spatio-temporal statistical and mechanistic models, survey design, mobile data collection, and fieldwork, and has substantial knowledge of mathematical modeling, hierarchical modeling, hypothesis testing via inferential statistics and forecasting, geographic information systems (GIS), mosquito rearing, and laboratory work.  
 
 ***  
 
@@ -62,12 +62,18 @@ Marisa Donnelly is a research epidemiologist with 7 years of experience in publi
 ***  
 
 ##### EMPLOYMENT
+*Centers for Disease Control and Prevention:*
+
+**Epidemic Intelligence Service Officer** \hfill 2020--Present
+ 
+- As an **EIS Officer** and **US Public Health Service Lieutenant** for the **CDC**, I am on the front lines of public health investigating emerging public health threats. I am stationed in the Disease Investigation Section at the California Department of Public Health. My role is to help to conduct epidemiological assessments, including outbreak investigations, of general communicable diseases of public health importance, and develop prevention guidelines for their control. I have lead multijurisdictional and multistate investigations of disease cluseters and consulted local health departments on prevention and control of communicable diseases. The infectious diseases we investigate include foodborne, waterborne, and other enteric infections;  infections caused by endemic fungal diseases including coccidioidomycosis (i.e. Valley fever); and infections caused by select agents including botulism. 
+- Projects have included: Conducting a 3 month household transmission investigation of SARS-CoV-2 in San Diego County. I lead this field investigation of 40 CDC deployers, designed and implemented data collection and enrollment of households, and conducted all statsticiall analyses (publications in prep.); Investigating an outbreak of SARS-CoV in high school basketball players from 4 counties that attended a basketball tournament (publication in prep); Evaluating the California COVID-19 state surveillance system, focusing on the accuracy of case demographics; Linking CA COVID-19 surveillance data with MediCal data to understand health disparaties in COVID-19. 
 
 *California Department of Public Health:*
 
 **Graduate Student Researcher** \hfill 2018--2020
  
-- As a **researcher** for the **Climate Change and Health Equity Program**, I investigated the human morbidity and mortality burden attributed to ambient temperature and extreme heat and cold events in California. I developed distributed non-linear lag models to project future scenarios of excess temperature-related morbidity and mortality in California populations using climate change scenarios and general circulation models. I focused on the most vulnerable populations and identified the communities at greatest risk for increases in heat-related illness burden in the future. Publication in prep.
+- As a **researcher** for the **Climate Change and Health Equity Program**, I investigated the human morbidity and mortality burden attributed to ambient temperature and extreme heat and cold events in California. The dataset I worked with contained over 2 million observations. I developed distributed non-linear lag models to project future scenarios of excess temperature-related morbidity and mortality in California populations using climate change scenarios and general circulation models. I focused on the most vulnerable populations and identified the communities at greatest risk for increases in heat-related illness burden in the future. Publication in prep.
 
 *University of California, Davis:*
 
@@ -113,19 +119,19 @@ Marisa Donnelly is a research epidemiologist with 7 years of experience in publi
 ***  
 
 ##### PUBLICATIONS
-**Donnelly, M.P.**, S. Kluh, R. Snyder, C.M. Barker. Quantifying socioeconomic heterogeneities in the distribution of *Aedes aegypti* among California Households. 2019 *PLoS Neglected Tropical Diseases.* 2019 (In review)
+**Donnelly, M.P.**, S. Kluh, R. Snyder, C.M. Barker. Quantifying socioeconomic heterogeneities in the distribution of *Aedes aegypti* among California Households. 2019 *PLoS Neglected Tropical Diseases.* 2020 [https://doi.org/10.1371/journal.pntd.0008408](https://doi.org/10.1371/journal.pntd.0008408)
 
-**Donnelly, M.P.**, B. Main, S. Kluh, C.M. Barker. *Aedes aegypti* blood and sugar-feeding patterns in Los Angeles, California, *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2019 (In review)
+**Donnelly, M.P.**, B. Main, S. Kluh, C.M. Barker. *Aedes aegypti* blood and sugar-feeding patterns in Los Angeles, California, *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2019 [Available here](https://www.mvcac.org/amg/wp-content/uploads/MVCAC-Proceedings-Full-2019.pdf)
 
 Kawiecki, A., W. Elson, **M.P. Donnelly**, J. Schwarz, J. Simpson, T. Scott, N. Achee, A. Morrisson. Use of mobile data collection tools to improve implementation of epidemiological trials in Iquitos, Peru. *American Journal of Tropical Medicine and Hygiene.* 2019 (In prep)
 
-**Donnelly, M.P.**, S. Kluh, C.M. Barker. Quantifying socioeconomic heterogeneities in the risk of local Zika and dengue outbreaks in California. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2018;86:84-85  
+**Donnelly, M.P.**, S. Kluh, C.M. Barker. Quantifying socioeconomic heterogeneities in the risk of local Zika and dengue outbreaks in California. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2018;86:84-85 [Available here](https://www.mvcac.org/amg/wp-content/uploads/MVCAC-Proceedings-Full-2018.pdf)  
 
-**Donnelly, M.P.**, M. Marcantonio, F. Melton, C.M. Barker. Mapping past, present, and future climatic suitability for invasive *Aedes aegypti* in the United States: a process-based modeling approach. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2017;85:18-20  
+**Donnelly, M.P.**, M. Marcantonio, F. Melton, C.M. Barker. Mapping past, present, and future climatic suitability for invasive *Aedes aegypti* in the United States: a process-based modeling approach. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2017;85:18-20 [Available here](https://www.mvcac.org/amg/wp-content/uploads/MVCAC-2017-Proceedings-Papers-Vol-85.pdf)  
 
-**Donnelly, M.P.**, M. Marcantonio, F. Melton, C.M. Barker. Mapping climatic suitability for invasive *Aedes aegypti* and *Aedes albopictus* in the United States: a process-based modeling approach. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2016;4:92:94
+**Donnelly, M.P.**, M. Marcantonio, F. Melton, C.M. Barker. Mapping climatic suitability for invasive *Aedes aegypti* and *Aedes albopictus* in the United States: a process-based modeling approach. *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2016;4:92:94 [Available here](https://www.mvcac.org/amg/wp-content/uploads/MVCAC-2016-Proceedings-Papers-Vol-84.pdf)
 
-Simpson, J.K., **M.P. Donnelly**, M. Marcantonio, C.M. Barker. CalSurv Gateway: survey results and new tools for invasive *Aedes*, *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2016;84:69:70 
+Simpson, J.K., **M.P. Donnelly**, M. Marcantonio, C.M. Barker. CalSurv Gateway: survey results and new tools for invasive *Aedes*, *Proceedings and Papers of the Mosquito and Vector Control Association of California.* 2016;84:69:70 [Available here](https://www.mvcac.org/amg/wp-content/uploads/MVCAC-2016-Proceedings-Papers-Vol-84.pdf)
 
 ***  
 
